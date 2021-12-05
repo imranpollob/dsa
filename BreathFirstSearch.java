@@ -34,7 +34,7 @@ public class BreathFirstSearch {
 		}
 	}
 
-	public static void main(String[] args) {
+	public static void main() {
 		int no_of_v = 5;
 		ArrayList<ArrayList<Integer>> list = new ArrayList<ArrayList<Integer>>(no_of_v);
 

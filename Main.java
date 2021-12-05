@@ -4,7 +4,8 @@ public class Main {
 
 	public static void main(String[] args) {
 //		GraphAdjacencyList.main();
-		BreathFirstSearch.main(args);
+//		BreathFirstSearch.main();
+		Recursion.main();
 	}
 
 }
