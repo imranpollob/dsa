@@ -3,7 +3,8 @@ package dsa;
 public class Main {
 
 	public static void main(String[] args) {
-		GraphAdjacencyList.main();
+//		GraphAdjacencyList.main();
+		BreathFirstSearch.main(args);
 	}
 
 }
